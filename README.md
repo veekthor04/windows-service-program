@@ -1,6 +1,6 @@
 # windows-service-program
 
-This app creates a Windows Service Program from a Flask app that can be installed and uninstalled
+This can be used creates a Windows Service Program from a Flask app that can be installed and uninstalled
 
 ## Usage
 - Install requirements
